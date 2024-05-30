@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url(imagenfondo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    position: relative;
+    top: 220px;
+    padding: 60px ;
+}
+
+input,label{
+   margin: 20px 20px;
+   position: relative;
+   top: 70px;
+   left: 50px;
+}
+
+label{
+    color: rgb(106, 171, 233);
+}
+
+#acto{
+    position: relative;
+    left: 74px;
+    bottom: 39px;
+    color: antiquewhite;
+}
+
+#Cont{
+    color: rgb(106, 171, 233);
+}
+
+input{
+    height: 30px;
+    border-bottom: 5px solid  rgb(106, 171, 233);
+}
+
+.titulo{
+    position: relative;
+    right: 226px;
+    bottom: 0px;
+    font-size: 30px;
+}
+.Form{
+    background: rgba(12, 10, 10, 0.459);
+    width: 310px;
+    height: 510px;
+}
+
+#txtsubmit{
+    width: 250px;
+    height: 40px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    background-color: rgb(116, 172, 232);
+    border:1px solid aquamarine;
+}

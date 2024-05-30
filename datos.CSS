@@ -1,0 +1,104 @@
+*{
+    background-color:rgb(238, 219, 231) ;
+    text-align: center;
+
+}
+
+.datosp{
+    display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  text-align: center; 
+  justify-content: center;
+}
+
+.unidadd{
+    display: flex;
+  flex-direction: column; 
+  align-items: center; 
+  text-align: center; 
+  justify-content: center;
+}
+
+.programae{
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    justify-content: center; 
+}
+
+.valores{
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    justify-content: center;
+}
+
+.redess{
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    justify-content: center;
+}
+
+
+
+.foto{
+    width: 10rem;
+}
+
+h1 {
+    color: #ad38a39a;
+    border-bottom: 2px solid  #ad38a39a;
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+}
+
+table th{
+    width: 6cm;
+    background-color: rgb(181, 90, 140);
+
+}
+ .otiniano{
+    background-color: rgb(227, 191, 143);
+ }
+
+
+ .percy{
+    background-color: rgb(157, 224, 163);
+ }
+
+ .luis{
+    background-color: rgb(204, 219, 170);
+ }
+
+ .bailon{
+    background-color: rgb(161, 179, 223);
+ }
+
+ .martin{
+    background-color: rgb(79, 99, 172);
+ }
+
+ .portal{
+    background-color: rgb(78, 118, 76);
+ }
+
+ .margot{
+    background-color: rgb(188, 174, 80);
+ }
+
+ .horasss{
+    background-color: rgb(185, 186, 187);
+ }
+
+ .n{
+    background-color: rgb(185, 186, 187);
+ } 
+ 

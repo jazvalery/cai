@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+color: black;
+}
+
+h1{
+text-align: center;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+section{
+    background-color: azure;
+    width: 80%;
+    margin: 0px  auto 0px ;
+    padding: 30px  15px  30px  15px;
+}
+ .fuego h2, .fuego p span {
+    color: red;
+ }
+
+h2{
+    margin: 10px 0px 10px 0px ;
+}
+
+.fuego h2, .fuego p span{
+ color: red;
+}
+
+ h2{
+    margin-bottom: 1px solid red;
+ }
+  
+ .fuego p span {
+    text-decoration: underline;
+ }
+
+ 
+
+
+ .aire h2, .aire p span {
+    color: rgb(0, 68, 255);
+ }
+
+h2{
+    margin: 10px 0px 10px 0px ;
+}
+
+.aire h2, .aire p span{
+ color: rgb(0, 68, 255);
+}
+
+ h2{
+    margin-bottom: 1px solid rgb(0, 68, 255);
+ }
+  
+ .aire p span {
+    text-decoration: underline;
+ }
+
+
+
+
+
+
+ .agua h2, .agua p span {
+    color: rgb(0, 255, 204);
+ }
+
+h2{
+    margin: 10px 0px 10px 0px ;
+}
+
+.agua h2, .agua p span{
+ color: rgb(0, 255, 204);
+}
+
+ h2{
+    margin-bottom: 1px solid rgb(0, 255, 204);
+ }
+  
+ .agua p span {
+    text-decoration: underline;
+ }
+
+
+
+
+
+
+ .tierra h2, .tierra p span {
+    color: rgb(255, 255, 0);
+ }
+
+h2{
+    margin: 10px 0px 10px 0px ;
+}
+
+.tierra h2, .tierra p span{
+ color: rgb(255, 255, 0);
+}
+
+ h2{
+    margin-bottom: 1px solid rgb(255, 255, 0);
+ }
+  
+ .tierra p span {
+    text-decoration: underline;
+ }
+  .fuego hr {
+   border-color:  red;
+ }
+
+ .aire hr {
+   border-color: blue;
+ }
+
+ .agua hr{
+   border-color: aqua;
+ }
+
+ .tierra hr{
+   border-color: rgb(255, 255, 0);
+ }
