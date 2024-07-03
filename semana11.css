@@ -1,0 +1,83 @@
+body{
+    background-color: #5B9629;
+}
+
+.base{
+    width: 450px;
+    height: 595px;
+    background-color: #89E33E;
+    position: relative;
+    left: 450PX;
+    padding: 15px;
+
+   
+}
+
+header{
+    width: 450px;
+    height: 100px;
+    background-color: #82BD50;
+    float: right;
+}
+
+img{
+    position: relative;
+    width: 20%;
+    left: 185px;
+    top: 5px;
+}
+
+nav{
+    width: 450px;
+    height: 95px;
+    background-color: #82BD50;
+    margin-top: 10px;
+    float: left;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.cajitas{
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    margin: 10px;  
+}
+
+main{
+    width: 450px;
+    height: 250px;
+    
+    background-color: #82BD50;
+    float: left;
+    margin-top: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-jaz{
+    width: 190px;
+    height:110px ;
+    border: 2px solid blue;
+
+}
+
+aside{
+    width: 190px;
+    height: 110px;
+    border: 2px solid blue;
+    margin-left: 20px;
+    
+}
+
+footer{
+    width: 450px;
+    height: 130px;
+    background-color: #82BD50;
+    float: left;
+    margin-top: 10px;
+}
